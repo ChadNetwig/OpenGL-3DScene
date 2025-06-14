@@ -6,7 +6,7 @@ This project renders a realistic 3D scene using modern OpenGL (version 4.x), fea
 
 ## 🎥 Demo Video
 
-Watch the full demo on YouTube: [OpenGL 3D Scene Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+Watch the full demo on YouTube: [OpenGL 3D Scene Demo](https://youtu.be/VMbCMuGOCqk)  
 <!-- Replace with your actual YouTube link -->
 
 ---
@@ -83,7 +83,7 @@ Watch the full demo on YouTube: [OpenGL 3D Scene Demo](https://www.youtube.com/w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/OpenGL-3DScene.git
+   git clone https://github.com/ChadNetwig/OpenGL-3DScene.git
    cd OpenGL-3DScene
    ```
 
@@ -105,4 +105,4 @@ Watch the full demo on YouTube: [OpenGL 3D Scene Demo](https://www.youtube.com/w
 ## 🙋‍♂️ Author
 
 **Chad Netwig**  
-For inquiries or collaboration, reach out on [LinkedIn](https://linkedin.com/in/yourprofile)
+For inquiries or collaboration, reach out on [LinkedIn](https://linkedin.com/in/chadnetwig)
