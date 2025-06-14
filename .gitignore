@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+
+# Build results
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+
+# Intermediate files
+*.obj
+*.idb
+*.tlog
+
+# IntelliSense database and related
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+
+# CMake (optional, future-proof)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Others
+*.generated.*
